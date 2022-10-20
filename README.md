@@ -10,7 +10,7 @@ https://developers.google.com/identity/protocols/oauth2/web-server#libraries
 1. Clone the repo
 
    ```
-   git clone https://github.com/AJ-Walker/Google-Calendar-Django-REST-API.git 
+    ggit url
    ```
    
 2. Create virtual environment
@@ -37,6 +37,9 @@ https://developers.google.com/identity/protocols/oauth2/web-server#libraries
 
    ```
    pip install -r requirements.txt
+   pip install djangorestframework
+   pip install google-auth-oauthlib
+   pip install google-api-python-client
    ```
 
 
